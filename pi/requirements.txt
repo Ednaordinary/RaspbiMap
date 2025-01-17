@@ -1,0 +1,5 @@
+matplotlib
+numpy
+pillow
+pyqt5
+tqdm
