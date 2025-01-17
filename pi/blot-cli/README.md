@@ -7,3 +7,6 @@ Additional commands (which require the modified firmware):
 - set-max-speed
 - set-accel
 - go-for
+
+main.rs - modified
+comms.rs - identical
